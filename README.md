@@ -19,7 +19,11 @@ Until recently, the planet was a single whole of the planet "74 Chelyabinsk". Th
 
 
 # Description
-This mod adds a moon with abandoned soviet school with route cost "125", and unique scrap items for this moon.
+This mod adds a moon with abandoned soviet school with route cost "125", and unique scrap items for this moon. The minimum three letter requirement to route to 15 MAOY School is "mao". 
+
+For custom dungeon interiors, the keyword is "School".
+
+The new mod version 1.1.0 uses the "Lethal Level Loader". All versions before uses "Lethal Expansion". If you using "Lethal Expansion" with new mod update, please, use "Lethal Expansion Core".
 
 # Installation (Before 1.1.0)
 1. Install [BepInEx](https://thunderstore.io/c/lethal-company/p/BepInEx/BepInExPack/) into your game. 
@@ -34,3 +38,8 @@ This mod adds a moon with abandoned soviet school with route cost "125", and uni
 4. Download [LethalLevelLoader](https://thunderstore.io/c/lethal-company/p/IAmBatby/LethalLevelLoader/) and drop it into "Lethal Company\BepInEx\plugins\"
 5. Download this mod and move all files to "Lethal Company\BepInEx\\plugins\".
 
+# Credits
+
+- IAmBatby for "LethalLevelLoader".
+- Evasia for "LethalLib" and UnityTemplateProject.
+- AudioKnight for video tutorial about LLL.
