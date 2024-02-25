@@ -9,12 +9,28 @@
 
 >FAUNA: schoolchilds live here.
 
-# Description
-This mod adds a moon with abandoned soviet school, and and as a bonus adds a couple of new scrap items: old book, wooden chair, cone, xiaomi.
-![Screenshot_6](https://raw.githubusercontent.com/RazrabGit/MAOYSchoolMod/main/Screenshots/Screenshot_6.png "Screenshot_6") 
+# Info
 
-# Installation
+![School2](https://raw.githubusercontent.com/RazrabGit/MAOYSchoolMod/main/Screenshots/School2.png "School2") 
+
+Until recently, the planet was a single whole of the planet "74 Chelyabinsk". The cause of the collapse of the planets was severe catastrophes, which led first to the cracking of the planet’s crust, then to their separation. After some time, due to climate change, this planet was overtaken by a serious flood, which is why the only free, clean territory remained only the school itself. In appearance, she still looks contentedly alive, as if her hard school days and exams continue. However, over time, it really became alive, but the living creatures are clearly not people. Currently there is little danger of flooding and attacks from local fauna.
+
+![School3](https://raw.githubusercontent.com/RazrabGit/MAOYSchoolMod/main/Screenshots/School3.png "School3") 
+
+
+# Description
+This mod adds a moon with abandoned soviet school with route cost "125", and unique scrap items for this moon.
+
+# Installation (Before 1.1.0)
 1. Install [BepInEx](https://thunderstore.io/c/lethal-company/p/BepInEx/BepInExPack/) into your game. 
 2. Download [LethalExpansion](https://thunderstore.io/c/lethal-company/p/HolographicWings/LethalExpansion/) and drop it into "Lethal Company\BepInEx\plugins\" 
 3. Download this mod and move "schoolmoon.lem" to "Lethal Company\\BepInEx\\plugins\\Modules\".
+
+# Installation (1.1.0 and later)
+
+1. Install [BepInEx](https://thunderstore.io/c/lethal-company/p/BepInEx/BepInExPack/) into your game. 
+2. Download [LethalLib](https://thunderstore.io/c/lethal-company/p/Evaisa/LethalLib/) and drop it into "Lethal Company\BepInEx\plugins\"
+3. Download [HookGenPatcher](https://thunderstore.io/c/lethal-company/p/Evaisa/HookGenPatcher/) and unpack it into "Lethal Company\BepInEx\"
+4. Download [LethalLevelLoader](https://thunderstore.io/c/lethal-company/p/IAmBatby/LethalLevelLoader/) and drop it into "Lethal Company\BepInEx\plugins\"
+5. Download this mod and move all files to "Lethal Company\BepInEx\\plugins\".
 
