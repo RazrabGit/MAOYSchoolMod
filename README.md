@@ -1,5 +1,5 @@
 # 15 MAOY School
-![Screenshot_1](https://raw.githubusercontent.com/RazrabGit/MAOYSchoolMod/main/Screenshots/Screenshot_1.png "Screenshot_1")  
+![School1](https://raw.githubusercontent.com/RazrabGit/MAOYSchoolMod/main/Screenshots/School1.png "School1")  
 
 >POPULATION: abandoned.
 
