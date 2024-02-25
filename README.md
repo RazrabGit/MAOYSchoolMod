@@ -41,5 +41,5 @@ The new mod version 1.1.0 uses the "Lethal Level Loader". All versions before us
 # Credits
 
 - IAmBatby for "LethalLevelLoader".
-- Evasia for "LethalLib" and UnityTemplateProject.
+- Evaisa for "LethalLib" and UnityTemplateProject.
 - AudioKnight for video tutorial about LLL.
